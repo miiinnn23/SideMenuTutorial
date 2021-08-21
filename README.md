@@ -1,4 +1,4 @@
-# SideMenuTutorial
+# Side Menu Tutorial
 
 Making side menu scene easily with using swift library 'SideMenu'
 <div>
